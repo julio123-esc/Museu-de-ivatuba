@@ -8,13 +8,13 @@
 </head>
 <body>
     <header>
-        <h1>Museu de História de Ciências Humanas de Ivatuba</h1>
+        <h1>Casa da memória de Ciencias Humanas de ivatuba</h1>
         <!-- Adicione um menu de navegação aqui se necessário -->
     </header>
 
     <main>
         <section class="intro">
-            <h2>Bem-vindo ao Museu de Ciências Humanas de Ivatuba</h2>
+            <h2>Bem-vindo a Casa da memória de Ciências Humanas de Ivatuba</h2>
             <p>Explore nossa rica história e mergulhe nas ciências humanas que moldaram nossa comunidade.</p>
             <!-- Adicione imagens e ilustrações aqui -->
         </section>
@@ -35,24 +35,3 @@
     </footer>
 </body>
 </html>
-
-
-### Estilo CSS Básico (`styles.css`):
-
-```css
-body {
-    font-family: 'Arial', sans-serif;
-    margin: 0;
-    padding: 0;
-}
-
-header {
-    background-color: #333;
-    color: #fff;
-    text-align: center;
-    padding: 1em;
-}
-
-main {
-    max-width: 800px;
-    margin: 20
