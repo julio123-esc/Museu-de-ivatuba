@@ -26,7 +26,7 @@
 
         <section class="events">
             <h2>Próximos Eventos</h2>
-            <!-- Adicione informações sobre eventos futuros -->
+            <!-- estramos localizados na rua X, numero Y -->
         </section>
     </main>
 
